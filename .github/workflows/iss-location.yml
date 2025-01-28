@@ -9,5 +9,5 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: 23f2003807@ds.study.iitm.ac.in
+      - name: xxxxx@ds.study.iitm.ac.in
         run: echo "Hello, world!"
